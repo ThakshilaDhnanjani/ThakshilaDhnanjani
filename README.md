@@ -79,8 +79,8 @@
   <summary><h3>GitHub Analytics</h3></summary>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThakshilaDhnanjani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img align="right" height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakshilaDhnanjani&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="thakshi" />
+<a href="https://github.com/ThakshilaDhnanjani">
+  <img align="left" height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThakshilaDhnanjani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img align="right" height="180rem" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakshilaDhnanjani&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="thakshi" />
 </a>
 </p>
 </details>    
