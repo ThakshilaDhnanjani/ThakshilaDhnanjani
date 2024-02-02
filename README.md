@@ -89,7 +89,6 @@
 
 
 
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -115,6 +114,11 @@
         
  [![GitHub followers](https://img.shields.io/github/followers/ThakshilaDhnanjani.svg?style=social&label=Followers)](https://github.com/ThakshilaDhnanjani?tab=followers)</p>
 
+<div align="center">
+  <a href="https://github.com/ThakshilaDhnanjani">
+  <img  src="https://github.com/ThakshilaDhnanjani/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 
