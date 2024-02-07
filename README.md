@@ -105,7 +105,7 @@
   <a href="https://www.facebook.com/profile.php?id=100091126674782" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Thakshi" height="60" width="125" /></a>
-  <a href="" target="blank"><img align="center"
+  <a href="https://www.instagram.com/_dhana_t/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Thakshi" height="60" width="125" /></a>
   <a href="https://www.hackerrank.com/profile/tdhananjani2000" target="blank"><img align="center"
